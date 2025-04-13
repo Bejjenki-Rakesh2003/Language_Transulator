@@ -3,7 +3,9 @@ This project is a Global Language Translator application built using Python's Tk
 Modules Installed:
 ---------------------------------------------------------------------------------------------------------
 python  from    https://www.python.org/downloads/
+
 tkinter         command-- pip install tkinter
+
 googletrans     command-- pip install googletrans==4.0.0-rc1
 
 
